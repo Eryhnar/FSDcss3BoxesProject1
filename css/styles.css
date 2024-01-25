@@ -10,7 +10,7 @@
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
 }
 
 .boxContainer {
@@ -19,11 +19,51 @@
     align-items: center;
     width: 40em;
     height: 10em;
-    background-color: brown;
+    /* background-color: brown; */
 }
 .box {
     margin: 1em;
-    background-color: aqua;
     width: 5em;
     height: 5em;
 }
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: brown;
+}
+
+#box3 {
+    background-color: orange;
+}
+
+#box4 {
+    background-color: yellow;
+}
+
+#box5 {
+    background-color: green;
+}
+
+#box6 {
+    background-color: turquoise;
+}
+
+#box7 {
+    background-color: rgb(27, 129, 129);
+}
+
+#box8 {
+    background-color: blue;
+}
+
+#box9 {
+    background-color: purple;
+}
+
+#box10 {
+    background-color: pink;
+}
+
