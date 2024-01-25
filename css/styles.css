@@ -1,0 +1,29 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+#mainWindow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.boxContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40em;
+    height: 10em;
+    background-color: brown;
+}
+.box {
+    margin: 1em;
+    background-color: aqua;
+    width: 5em;
+    height: 5em;
+}
